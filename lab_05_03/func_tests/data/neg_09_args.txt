@@ -1,0 +1,1 @@
+c ./func_tests/data/neg_09_out.bin 9 ./func_tests/data/neg_08_out.bin

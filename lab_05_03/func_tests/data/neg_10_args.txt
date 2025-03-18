@@ -1,0 +1,1 @@
+c -9 ./func_tests/daaaata/neg_10_out.bin

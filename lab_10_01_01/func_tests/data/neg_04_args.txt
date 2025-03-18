@@ -1,0 +1,1 @@
+./func_tests/data/neg_04_in_not_exist.txt ./out/out_stream.tmp
